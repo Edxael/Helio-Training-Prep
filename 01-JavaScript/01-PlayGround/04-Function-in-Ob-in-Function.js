@@ -1,5 +1,3 @@
-console.log("04-Function-in-Ob-in-Function.js");
-
 // Executing a function that is inside of an Object whic is inside of a function
 
 function sayHello(){
@@ -30,4 +28,4 @@ function sayHello(){
 
 
 
-sayHello();
+sayHello()
